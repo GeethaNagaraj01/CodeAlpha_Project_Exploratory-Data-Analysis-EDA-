@@ -107,3 +107,6 @@ Dataset Source: Kaggle Titanic Dataset
 
 
 
+
+
+[Screencast from 2025-05-12 19-21-40.webm](https://github.com/user-attachments/assets/f18332dd-ae15-404b-b6a1-ae2276a2bd64)
